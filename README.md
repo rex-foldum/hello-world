@@ -1,7 +1,7 @@
 Hello, world!
 ===========
 
-<img src="img/hello-world.png" align="left" width="100px" hspace="10">
+<img src="img/hello-world.png" align="left" width="120px" hspace="10">
 This is a repo which fully implemented:  
 https://guides.github.com/activities/hello-world
 
