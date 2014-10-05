@@ -1,5 +1,8 @@
-hello-world
+Hello, world!
 ===========
 
-This is a repo that follows:  
+<img src="img/hello-world.png" align="left" width="120px" hspace="10">
+This is a repo which fully implemented:  
 https://guides.github.com/activities/hello-world
+
+And now continues to serve as a place to test and exhibit the capabilities of Git and GitHub!
