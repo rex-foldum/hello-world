@@ -1,7 +1,7 @@
-hello-world
+Hello, world!
 ===========
 
-<img src="img/hello-world.png" align="left" width="90px" hspace="10">
+<img src="img/hello-world.png" align="left" width="96px" hspace="10">
 This is a repo which fully implemented:  
 https://guides.github.com/activities/hello-world
 
