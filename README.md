@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-<img src="img/hello-world.png" align="left" hspace="4" vspace="2">
+<img src="img/hello-world.png" align="left" width="200px">
 This repo that followed:  
 https://guides.github.com/activities/hello-world
 
